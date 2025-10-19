@@ -1,0 +1,49 @@
+2025-10-19 17:48:13 INFO  CV_test - CV object built successfully
+2025-10-19 17:48:13 INFO  CV_test - <=== My_CV ===>
+2025-10-19 17:48:13 INFO  CV_test - CV(name=Sourav Biswas, age=28, address=Bangalore,karnataka,india, email=Sourav121@gmail.com, phone=03227-225343, profession=Automation_Test_Engineer)
+2025-10-19 17:48:13 INFO  CV_test - all data validate
+2025-10-19 17:53:24 INFO  CV_test - CV object built successfully
+2025-10-19 17:53:24 INFO  CV_test - <=== My_CV ===>
+2025-10-19 17:53:24 INFO  CV_test - 
+=============================
+         MY CV DETAILS       
+=============================
+Name        : Sourav Biswas
+Age         : 28
+Address     : Bangalore,karnataka,india
+Email       : Sourav121@gmail.com
+Phone       : 03227-225343
+Profession  : Automation_Test_Engineer
+=============================
+
+2025-10-19 17:53:24 INFO  CV_test - all data validate
+2025-10-19 18:04:12 INFO  CV_test - CV object built successfully
+2025-10-19 18:04:12 INFO  CV_test - <=== My_CV ===>
+2025-10-19 18:04:12 INFO  CV_test - 
+=============================
+         MY CV DETAILS       
+=============================
+Name        : Sourav Biswas
+Age         : 28
+Address     : Bangalore,karnataka,india
+Email       : Sourav121@gmail.com
+Phone       : 03227-225343
+Profession  : Automation_Test_Engineer
+=============================
+
+2025-10-19 18:04:12 INFO  CV_test - all data validate
+2025-10-19 18:09:22 INFO  MyCvApplication - CV object built successfully
+2025-10-19 18:09:22 INFO  MyCvApplication - <=== My_CV ===>
+2025-10-19 18:09:22 INFO  MyCvApplication - 
+=============================
+         MY CV DETAILS       
+=============================
+Name        : Sourav Biswas
+Age         : 28
+Address     : Bangalore,karnataka,india
+Email       : Sourav121@gmail.com
+Phone       : 03227-225343
+Profession  : Automation_Test_Engineer
+=============================
+
+2025-10-19 18:09:22 INFO  MyCvApplication - all data validate
