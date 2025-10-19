@@ -31,11 +31,10 @@ This project is ideal for learning and demonstrating **Java test automation prac
 1. Clone the repository:  
 ```bash
 git clone https://github.com/<your-username>/my-cv.git
+```
 
----
 
-
-Author
+## Author
 
 Sourav Biswas
 Automation Test Engineer | Java Test Automation Enthusiast
