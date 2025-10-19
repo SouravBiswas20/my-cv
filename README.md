@@ -35,6 +35,5 @@ git clone https://github.com/<your-username>/my-cv.git
 ---
 
 ## Author
-
-Sourav Biswas
+Sourav Biswas<br>
 Automation Test Engineer | Java Test Automation Enthusiast
