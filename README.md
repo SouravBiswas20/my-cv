@@ -32,7 +32,7 @@ This project is ideal for learning and demonstrating **Java test automation prac
 ```bash
 git clone https://github.com/<your-username>/my-cv.git
 ```
-
+---
 
 ## Author
 
